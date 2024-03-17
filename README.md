@@ -27,6 +27,8 @@ $$= \sigma_1 \vec u_1 \vec v_1^T + \sigma_2 \vec u_2 \vec v_2^T +\cdots+ \sigma_
 시각적으로 표현하면 다음과 같습니다.  
 ![1](https://github.com/dontempty/tensor-decompostion/assets/155451345/2c256996-2bac-4f43-8a51-a529fe8b8d81)
 
+여기가 정말 잘 설명해 줍니다.
+<https://angeloyeo.github.io/2019/08/01/SVD.html>
 
 ## CP decompostion 
 CP decomposition은 SVD와 유사하게 생각하시면 됩니다.   
